@@ -1,0 +1,19 @@
+{
+  "name": "sun-fit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akseonowww/sun-fit.git"
+  },
+  "author": "Akseonowww Ruslan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akseonowww/sun-fit/issues"
+  },
+  "homepage": "https://github.com/akseonowww/sun-fit#readme"
+}
